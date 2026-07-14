@@ -1,7 +1,6 @@
 # swift-cross-platform-core-article-demo — SharedFlagCore
 
-Companion demo for the article **"Swift Now Runs on Android. Here's What I'd Actually Share — and What I Wouldn't."**
-(Article: added after publish — see below.)
+Companion demo for the article **["Swift Runs on Android Now. Here's What I'd Actually Share — and What I Wouldn't."](https://medium.com/p/b624ae0c23bc)** on Medium.
 
 Skip is free and open source, Swift 6.3+ ships an official Android SDK, and the Swift on
 Android Community Workgroup exists. This repo is the opinionated answer to "so what do we
